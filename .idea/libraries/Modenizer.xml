@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="Modenizer" type="javaScript">
+    <properties>
+      <option name="frameworkName" value="Modernizr" />
+      <option name="frameworkVersion" value="3,11.2" />
+    </properties>
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/js/vendor/modernizr-3.11.2.min.js" />
+    </CLASSES>
+    <DOCUMENTATION>
+      <root url="https://modernizr.com/docs/" />
+    </DOCUMENTATION>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

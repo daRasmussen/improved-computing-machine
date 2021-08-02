@@ -1,10 +1,14 @@
 {
-  "name": " ",
+  "name": "improved-computing-machine",
   "version": "0.0.1",
-  "description": "",
-  "keywords": "",
+  "description": "Visualize Data with a Bar Chart ",
+  "keywords": [
+    "fcc",
+    "d3",
+    "chart"
+  ],
   "license": "",
-  "author": "",
+  "author": "Daniel Rasmussen",
   "scripts": {
     "build": "parcel build index.html",
     "dev": "parcel index.html --open",
