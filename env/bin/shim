@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+export NODE_PATH='/home/danras/github/improved-computing-machine/env/lib/node_modules'
+export NPM_CONFIG_PREFIX='/home/danras/github/improved-computing-machine/env'
+export npm_config_prefix='/home/danras/github/improved-computing-machine/env'
+exec 'env/bin/node' "$@"
